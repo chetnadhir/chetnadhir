@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @chetnadhir
-- 🌱 I’m currently learning c and sql.
+- 🌱 I’m currently learning
+- c , cpp , python , html , javascript and sql.
   
 
 <!---
