@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetnadhir
 - 🌱 I’m currently learning
-- c , cpp , python , html , javascript, css and my sql.
+- c , cpp , python , html , javascript, css  react and my sql.
   
 
 <!---
